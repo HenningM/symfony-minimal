@@ -1,5 +1,5 @@
 {
-    "name": "henningm/symfony2-minimal",
+    "name": "henningm/symfony-minimal",
     "description": "A minimal skeleton for development using the Symfony2 framework",
     "autoload": {
         "psr-0": { "": "src/" }
